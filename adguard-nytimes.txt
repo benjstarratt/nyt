@@ -1,0 +1,4 @@
+nytimes.com###collection-highlights-container
+nytimes.com##.css-4svvz1, .eb97p610
+nytimes.com###stream-panel > div.css-g6hk37.supplemental:last-child
+nytimes.com###app > div:first-child > div.NYTAppHideMasthead.css-zz1s19.e1m0pzr40 > header.css-ahe4g0.e1m0pzr41 > section.css-ui9rw0.e1m0pzr42:first-child > div.css-12bivf2.e1j3jvdr1:last-child > a.nytcp-opt.css-1kj7lfb:first-child > span.css-gfqyex
